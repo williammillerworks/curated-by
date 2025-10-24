@@ -1,3 +1,5 @@
+10.24.25: list, list-detail page
+
 # Product Requirements Document (PRD)
 ## curated by - Personal Link Collection
 
