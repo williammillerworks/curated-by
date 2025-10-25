@@ -1,3 +1,5 @@
+10.26.25: Log in or Sign Up
+
 10.24.25: list, list-detail page
 
 # Product Requirements Document (PRD)
