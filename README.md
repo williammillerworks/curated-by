@@ -1,6 +1,8 @@
-10.26.25: Log in or Sign Up
+10.27.25: screen: waitlist bottom modal
 
-10.24.25: list, list-detail page
+10.26.25: screen: log in or sign up
+
+10.24.25: screen: list, list-detail page
 
 # Product Requirements Document (PRD)
 ## curated by - Personal Link Collection
