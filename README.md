@@ -1,3 +1,5 @@
+10.29.25: artist curation by request
+
 10.27.25: screen: waitlist bottom modal
 
 10.26.25: screen: log in or sign up
