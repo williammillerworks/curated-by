@@ -1,3 +1,5 @@
+10.31.25: profile screen mockup share
+
 10.29.25: artist curation by request
 
 10.27.25: screen: waitlist bottom modal
