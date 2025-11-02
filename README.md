@@ -1,3 +1,5 @@
+11.02.25: about us page mockup
+
 10.31.25: profile screen mockup share
 
 10.29.25: artist curation by request
